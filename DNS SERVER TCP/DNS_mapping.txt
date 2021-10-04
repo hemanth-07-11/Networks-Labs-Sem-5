@@ -1,0 +1,9 @@
+www.google.com:173.194.197.105
+www.youtube.com:172.217.8.174
+www.twitter.com:104.244.42.129
+www.cricbuzz.com:49.44.131.123
+www.jio.com:49.40.8.183
+www.hemanth.com:34.102.136.180
+instagram.com:157.240.241.174
+facebook.com:157.240.192.35
+shineb.in:184.168.99.253
